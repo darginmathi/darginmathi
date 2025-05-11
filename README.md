@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi, I'm Dargin
+
+- 🛠️ I'm currently learning Back-end Development, using Go as my primary language
+
+- 🤖 I'm interested in automation and embedded systems
 
 <!--
 **darginmathi/darginmathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
