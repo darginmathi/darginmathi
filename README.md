@@ -1,6 +1,6 @@
 ## Hi, I'm Dargin
 
-- 🛠️ I'm currently learning Back-end Development, using Go as my primary language
+- 🛠️ I'm currently learning Back-end Development, using Go, Python and C
 
 - 🤖 I'm interested in automation and embedded systems
 
