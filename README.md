@@ -1,8 +1,8 @@
 ## Hi, I'm Dargin
 
-- 🛠️ I'm currently learning Back-end Development, using Go, Python and C
+- I'm currently learning Back-end Development, using Go, Python and C
 
-- 🤖 I'm interested in automation and embedded systems
+- I'm interested in automation and embedded systems
 
 <!--
 **darginmathi/darginmathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
